@@ -2,7 +2,13 @@
 
 ## 3-th experiment：Modify model structure-2
 
-### model file： 
+### Model structure
+
+<div align="center"> <img src="./3th_structure.png"/> </div>
+
+As shown in the figure, the fully connected layer is the same as 1-th_experiment, initialized to Granularity Consistent Attention.
+
+### Experiment details
 
 1. 100w/450+w train datasets
 2. batch_size = 16
