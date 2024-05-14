@@ -14,7 +14,7 @@ As shown in the figure, the fully connected layer is the same as 1th experiment,
 2. batch_size = 16
 3. epoch = 1
 
-<div align="center"> Training Loss <img src="./Training loss.png"/> </div>
+<div align="center"> Training Loss <img src="./TrainingLoss.png"/> </div>
 
 __initial loss and bleu__
 
