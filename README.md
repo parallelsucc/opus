@@ -1,4 +1,4 @@
 # opus
 
-#### 注：  
-由于网盘安全限制，无法生成分享链接。如需权重文件，可联系 <a href="https://github.com/parallelsucc">parallelsucc</a> 通过阿里云盘快传分享。  
+#### Tip: 
+Due to network disk security restrictions, the sharing link cannot be generated. If you need a weight file, you can contact <a href="https://github.com/parallelsucc">parallelsucc</a> to share it through Alibaba Cloud Disk Express.
