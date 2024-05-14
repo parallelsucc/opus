@@ -15,7 +15,7 @@ As shown in the figure, the fully connected layer is the same as 1-th_experiment
 3. epoch = 1
 4. Same as test1, initialized to Granularity Consistent Attention
 
-!["Training Loss"](test3.png)
+!["Training Loss"](TrainingLoss.png)
 
 __initial loss and bleu__
 
