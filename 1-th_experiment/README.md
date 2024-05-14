@@ -13,7 +13,7 @@ As shown in the figure, there is a 3072 * 512 fully connected layer between the 
 3. epoch = 1
 4. The output of the 6 encoder layers is used as the fully connected input, and the output is used as the decoder input, that is, 3072 * 512, initialized to last_hidden_state 
 
-<img src="test1.png"/>
+<img src="TrainingLoss.png"/>
 
 
 __After fine-tuning__
