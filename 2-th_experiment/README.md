@@ -14,7 +14,7 @@ As shown in the figure, no model structure was modified in this experiment, that
 2. batch_size = 128
 3. epoch = 1
 
-<img src="test2.png"/>
+<img src="TrainingLoss.png"/>
 
 
 __After fine-tuning__
