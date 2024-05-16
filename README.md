@@ -1,4 +1,4 @@
-## TODO: Update arxiv link
+## Arxiv link: https://arxiv.org/abs/2405.08570
 ## opus
 ## Reproducible Code：https://github.com/parallelsucc/opus/tree/reproduction
 
